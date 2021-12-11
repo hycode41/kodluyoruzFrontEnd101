@@ -1,0 +1,247 @@
+INDEX
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                    </li>
+                    <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                    </li>
+
+                    <li>
+                    <a href="contact.html">İletişim</a>
+                    </li>
+
+
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <article>
+            <h2>Birinci Yazı</h2>
+            <img src="https://i0.wp.com/filmloverss.com/wp-content/uploads/2018/06/hannibal-filmloverss-1.jpg?fit=600%2C300&ssl=1" alt="yazi 1">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas voluptates unde dolorem. Molestias, dolore modi aspernatur quisquam sed eos mollitia, eveniet sint totam accusantium quod suscipit nostrum nemo labore pariatur!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Neque placeat voluptates a atque.</p>
+            <p>Repellendus quisquam cumque rem assumenda?</p>
+            <ol>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Dolor, temporibus sunt?</li>
+                <li>Animi, reiciendis cupiditate!</li>
+            </ol>
+        </article>
+        <hr>
+        <article>
+            <h2>İkinci Yazı</h2>
+            <img src="https://i0.wp.com/filmloverss.com/wp-content/uploads/2018/06/hannibal-filmloverss-1.jpg?fit=600%2C300&ssl=1"
+                alt="yazi 1">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas voluptates unde dolorem. Molestias, dolore modi
+                aspernatur quisquam sed eos mollitia, eveniet sint totam accusantium quod suscipit nostrum nemo labore pariatur!
+            </p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Neque placeat voluptates a atque.</p>
+            <p>Repellendus quisquam cumque rem assumenda?</p>
+            <ul>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Dolor, temporibus sunt?</li>
+                <li>Animi, reiciendis cupiditate!</li>
+            </ul>
+        </article>
+        <hr>
+        <article>
+            <h2>Üçüncü Yazı</h2>
+            <img src="https://i0.wp.com/filmloverss.com/wp-content/uploads/2018/06/hannibal-filmloverss-1.jpg?fit=600%2C300&ssl=1"
+                alt="yazi 1">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas voluptates unde dolorem. Molestias, dolore modi
+                aspernatur quisquam sed eos mollitia, eveniet sint totam accusantium quod suscipit nostrum nemo labore pariatur!
+            </p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Neque placeat voluptates a atque.</p>
+            <p>Repellendus quisquam cumque rem assumenda?</p>
+        </article>
+        <hr>
+    </section>
+    <footer>
+        <nav>
+            <li>
+                <a href="index.html">Ana Sayfa</a>
+            </li>
+            <li>
+                <a href="about-us.html">Hakkımızda</a>
+            </li>
+            
+            <li>
+                <a href="contact.html">İletişim</a>
+            </li>
+            
+            
+            </li>
+            
+        </nav>
+    </footer>
+</body>
+</html>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ABOUT US
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+
+
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <article>
+            <h2>Hakkımızda Yazı</h2>
+            <img src="https://i0.wp.com/filmloverss.com/wp-content/uploads/2018/06/hannibal-filmloverss-1.jpg?fit=600%2C300&ssl=1"
+                alt="yazi 1">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas voluptates unde dolorem. Molestias, dolore
+                modi aspernatur quisquam sed eos mollitia, eveniet sint totam accusantium quod suscipit nostrum nemo
+                labore pariatur!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Neque placeat voluptates a atque.</p>
+            <p>Repellendus quisquam cumque rem assumenda?</p>
+            <ol>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Dolor, temporibus sunt?</li>
+                <li>Animi, reiciendis cupiditate!</li>
+            </ol>
+        </article>
+        <hr>
+    </section>
+    <footer>
+        <nav>
+            <li>
+                <a href="index.html">Ana Sayfa</a>
+            </li>
+            <li>
+                <a href="about-us.html">Hakkımızda</a>
+            </li>
+
+            <li>
+                <a href="contact.html">İletişim</a>
+            </li>
+
+
+            </li>
+
+        </nav>
+    </footer>
+</body>
+
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CONTACT US
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İletişim</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+
+
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <article>
+            <h2>İletişim Yazı</h2>
+            <img src="https://i0.wp.com/filmloverss.com/wp-content/uploads/2018/06/hannibal-filmloverss-1.jpg?fit=600%2C300&ssl=1"
+                alt="yazi 1">
+                <address>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, suscipit.
+                </address>
+                <ul>
+                    <li><a href="tel:1234123123">İletişim no</a></li>
+                    <li><a href="mailto:kodluyoruz@gmail.com">Deneme mail hesabı</a></li>
+                    <li><a href="Adress:">Bla Bla Bla Mahallesi</a></li>
+                </ul>
+            
+        </article>
+        <hr>
+    </section>
+    <footer>
+        <nav>
+            <li>
+                <a href="index.html">Ana Sayfa</a>
+            </li>
+            <li>
+                <a href="about-us.html">Hakkımızda</a>
+            </li>
+
+            <li>
+                <a href="contact.html">İletişim</a>
+            </li>
+
+
+            </li>
+
+        </nav>
+    </footer>
+</body>
+
+</html>
+
+
