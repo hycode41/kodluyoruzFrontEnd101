@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<hr>
+
+
+
+
+
+<h1>HASAN YILDIZ</h1>
+<!-- gerekli aciklamalar yapildi bro :D -->
+
+<!-- hakkımda bölümü -->
+<h2>Hakkimda</h2>
+<p>YBS bolumunden yeni mezun oldum. Siber guvenlik ve yazilim alanina cok ilgim var. Kodluyoruz'u kesfettim ve
+    egitimlerime devam ediyorum.</p>
+
+<!-- hobiler ve ilgi alanlarım-->
+<h3>Hobiler</h3>
+<p> Basketbol, okuyup arastirmak, uzak dogu savunma sanatlari ve kulturu ve dil ogrenmek benim hobimlerim sayilabilir.
+</p>
+
+<h1>Filmler</h1>
+
+<ul style="list-style-type:disc">
+    <li>Shutter Island</li>
+    <img class="fit-picture" src="https://i.ytimg.com/vi/Udfq0fiScug/movieposter_en.jpg"
+width="400" 
+     height=auto>
+<p>
+    DiCaprio'nun harika psikolojik gerilim filmi!!!</p>
+    <hr>
+
+    <li>Joker</li>
+    <img class="fit-picture" src="https://m.media-amazon.com/images/M/MV5BMGQ1ZGZmNTAtM2MyYi00NmZhLTkwYmYtNTNlZDRhMzU2ZTgwXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg"width="400" 
+     height=auto>
+<p>
+    Söze gerek yok!!!</p>
+    <hr>
+
+    <li>Rurouni Kenshin</li>
+
+<img class="fit-picture" src="https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc7DC6i7cHBHiiKIVdCZOBD37AJmGMYTQScEPCM-8K0H2iHSFazSRBUR7W9Xlra9So6p5A_ynBpiW0Dr_0w2oMgMszNB.jpg?r=bf5"width="400" 
+     height=auto>
+<p>
+    Samuray ve Japon kültürüne merakınız varsa kesin bakın!!!</p>
+
+</ul>
+
+<h1>FAVORİ DİZİ</h1>
+
+
+<img class="fit-picture" src="https://i.haberglobal.com.tr/storage/haber/2020/05/27/hannibal-geri-mi-donuyor-mads-mikkelsen-in-paylasimi-heyecan-yaratti_1590574220.jpg" width="600" height="auto">
+
+<a href="https://www.imdb.com/title/tt2243973/" target="_blank">HANNIBAL</a>
+
+<a href="https://www.imdb.com/title/tt2243973/">IMDB'YE GIT</a>
+</head>
+</head>
+</div>
+
